@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1714191607 source:c:\users\bbarrera\documents\github\laboratorio-ii\act-clase poducto\main.cpp
+	<iostream>
+	"funciones.h"
+
+1714191308 source:c:\users\bbarrera\documents\github\laboratorio-ii\act-clase poducto\producto.cpp
+	<iostream>
+	<cstring>
+	"producto.h"
+
+1714191011 c:\users\bbarrera\documents\github\laboratorio-ii\act-clase poducto\producto.h
+	<string>
+
+1714192126 source:c:\users\bbarrera\documents\github\laboratorio-ii\act-clase poducto\funciones.cpp
+	"funciones.h"
+	<iostream>
+
+1714189760 c:\users\bbarrera\documents\github\laboratorio-ii\act-clase poducto\funciones.h
+	"producto.h"
+
